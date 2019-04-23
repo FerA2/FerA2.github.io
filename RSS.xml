@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+    <channel>
+        <title>Thinking Monkey</title>
+        <link>https://fera2.github.io/</link>
+        <description>Noticias de Prueba pagina Web</description>
+        
+        <item>
+            <title>Titulo 1</title>
+            <link>https://fera2.github.io/TM-Noticia1.html</link>
+            <description>Noticia 1 pruebas</description>
+        </item>
+        <item>
+            <title>Titulo 2</title>
+            <link>https://fera2.github.io/TM-Noticia2.html</link>
+            <description>Noticia 2 pruebas</description>
+        </item>
+        <item>
+            <title>Titulo 3</title>
+            <link>https://fera2.github.io/TM-Noticia3.html</link>
+            <description>Noticia 3 pruebas</description>
+        </item>
+        <item>
+            <title>Titulo 4</title>
+            <link>https://fera2.github.io/TM-Noticia4.html</link>
+            <description>Noticia 4 pruebas</description>
+        </item>
+        <item>
+            <title>Titulo 5</title>
+            <link>https://fera2.github.io/TM-Noticia5.html</link>
+            <description>Noticia 5 pruebas</description>
+        </item>   
+    </channel>
+    
+</rss>
