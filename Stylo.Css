@@ -166,9 +166,9 @@ aside{
     color:coral;
     line-height: 200%;
 }
-article p{
+#resumen{
     margin: 0px auto;
-    height: 10%;
+    height: 15%;
     padding: 5px 30px;
     text-indent: 30px;
     border-bottom: 2px solid black;
@@ -176,18 +176,30 @@ article p{
 }
 article h3{
     font-size: 1.2em;
-    padding: 10px 40px;
-    margin-left: 20px;
+    padding: 10px 0px;
     text-transform: uppercase;
     color: #211f1f;
     font-family: 'Cabin', sans-serif;
-    cursor: pointer; 
+}
+#articulo{
+    margin: 0px auto;
+    width: 80%;
+    height: 80%;
+    text-indent: 30px;
+}
+#articulo p{
+    
+    
 }
 #foto{
     float:right;
-    margin:  5px 10px ;
+    margin-left: 2%;   ;
     border: 2px solid black;
     border-radius: 10px;
+}
+#fotog{
+    float: right;
+    height: auto;
 }
 #pagina{
     background-color:#1e2022;
