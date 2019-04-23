@@ -198,8 +198,10 @@ article h3{
     border-radius: 10px;
 }
 #fotog{
-    float: right;
-    height: auto;
+    float:left;
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 #pagina{
     background-color:#1e2022;
